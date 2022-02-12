@@ -1,4 +1,5 @@
-Gamebotz My project with renaldy 
-Using 
+Gamebotz My project Laravel with renaldy 
+  Using :
 - Dashboard Stisla Template
 - World Time Template
+- Laravel Framework
